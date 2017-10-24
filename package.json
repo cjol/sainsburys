@@ -1,0 +1,21 @@
+{
+  "name": "scrapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.12.0"
+  },
+  "dependencies": {
+    "@types/casperjs": "^1.0.31",
+    "casperjs": "^1.1.4",
+    "moment": "^2.18.1",
+    "momentjs": "^2.0.0",
+    "scraperjs": "^1.2.0"
+  }
+}
